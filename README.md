@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/dqs88qvgxkv9i96q?svg=true)](https://ci.appveyor.com/project/DariTat/ws-frontend)
 
+[GitHub Pages](https://daritat.github.io/ws-frontend/)
 # Домашнее задание к занятию "8. EventSource, Websockets"
 
 Правила сдачи задания:
